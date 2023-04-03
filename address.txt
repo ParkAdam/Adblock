@@ -1,0 +1,61 @@
+[Adblock]
+! Homepage: https://github.com/benant/adblock-filter-benant/
+! Title: benant
+! Version: 20190120
+! Translate simple filters - https://adblockplus.org/en/deregifier
+! Find useless filters - https://adblockplus.org/ko/redundancy_check
+! URL filter
+*.adnavi.co.kr*$third-party
+*.bayabar.com*$third-party
+*.crwdcntrl.net*$third-party
+*.keywordsconnect.com*$third-party
+*.simpli.fi*$third-party
+*.hu.co.kr*$third-party
+*.treasuredata.com*$third-party
+*.popin.cc*$third-party
+*.joyninfo.com*$third-party
+*.kodcad.kr*$third-party
+*.sunnyworks.co.kr*$third-party
+*.dable.io*$third-party
+compass.adop.cc*$third-party
+cdn.taboola.com*$third-party
+*adbiz*.co.kr*$subdocument
+*.mman.kr*$third-party
+*cdnprisms.pandora.tv*$third-party
+*.innorame.com*$subdocument
+*/ad/*$subdocument
+! Ad Server
+xsgcobwd.com##*
+! DOM filter
+mail.daum.net##div[id="daBanner"]
+##.adsbyadop
+torrentao.com##.sidebar
+##[id^=banner]
+##[id$=banner]
+/banner/*
+##a[href*="bannerhit.php"]
+*/banner/*
+_banner/*
+ytn.co.kr##.articleAd_new
+ytn.co.kr##.articleAd_marketing
+ytn.co.kr##.adright_box
+danawa.com##.main_ad_prodlist
+*.bodloster.com
+bbc.com##.story-body__unordered-list
+torrentzozo.com##a[target=_blank]:not([class=view_image])
+*.clicktq.com
+##.title_block_facebook
+_banner/*
+! Fissing Site
+daurn.net##*
+coinnone.net##*
+coinnoinc.com##*
+naverccrp.com##*
+! YouTube
+youtube.com##.ytp-pause-overlay
+youtube.com###chat
+! fake news
+www.chosun.com##*
+www.joongang.co.kr##*
+www.donga.com##*
+ilbe.com##*
