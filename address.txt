@@ -53,3 +53,20 @@ www.chosun.com##*
 www.joongang.co.kr##*
 www.donga.com##*
 ilbe.com##*
+
+
+
+philgo.com##DIV[class="jeho ad_left_header"]
+philgo.com##DIV[class="jeho ad_right_header"]
+philgo.com##DIV[class="ad_right_wing"]
+philgo.com##DIV[class="left-wing"]
+philgo.com##DIV[class="philgo-main-banner"]
+www.naver.com##DIV[id="veta_top"]
+www.naver.com##DIV[id="veta_branding"]
+noonoo**.tv##DIV[class="partner-banner-wrap "]
+noonoo**.tv##DIV[class="partner-banner-wrap index"]
+noonoo**.tv##DIV[class="partner-br-wrap index"]
+noonoo**.tv##DIV[class="notice-alert"]
+noonoo**.tv##DIV[class="partner"]
+noonoo**.tv##DIV[class="event-alert"]
+noonoo**.tv##DIV[class="partner-br-wrap "]
