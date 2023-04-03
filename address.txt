@@ -1,10 +1,4 @@
 [Adblock]
-! Homepage: https://github.com/benant/adblock-filter-benant/
-! Title: benant
-! Version: 20190120
-! Translate simple filters - https://adblockplus.org/en/deregifier
-! Find useless filters - https://adblockplus.org/ko/redundancy_check
-! URL filter
 *.adnavi.co.kr*$third-party
 *.bayabar.com*$third-party
 *.crwdcntrl.net*$third-party
