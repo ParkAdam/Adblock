@@ -18,8 +18,12 @@ cdn.taboola.com*$third-party
 *cdnprisms.pandora.tv*$third-party
 *.innorame.com*$subdocument
 */ad/*$subdocument
+
+
 ! Ad Server
 xsgcobwd.com##*
+
+
 ! DOM filter
 mail.daum.net##div[id="daBanner"]
 ##.adsbyadop
@@ -40,14 +44,20 @@ torrentzozo.com##a[target=_blank]:not([class=view_image])
 *.clicktq.com
 ##.title_block_facebook
 _banner/*
+
+
 ! Fissing Site
 daurn.net##*
 coinnone.net##*
 coinnoinc.com##*
 naverccrp.com##*
+
+
 ! YouTube
 youtube.com##.ytp-pause-overlay
 youtube.com###chat
+
+
 ! fake news
 www.chosun.com##*
 www.joongang.co.kr##*
@@ -55,7 +65,7 @@ www.donga.com##*
 ilbe.com##*
 
 
-
+! Ad List
 philgo.com##DIV[class="jeho ad_left_header"]
 philgo.com##DIV[class="jeho ad_right_header"]
 philgo.com##DIV[class="ad_right_wing"]
