@@ -59,9 +59,9 @@ youtube.com###chat
 
 
 ! fake news
-www.chosun.com##*
-www.joongang.co.kr##*
-www.donga.com##*
+chosun.com##*
+joongang.co.kr##*
+donga.com##*
 ilbe.com##*
 
 
