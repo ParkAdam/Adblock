@@ -69,12 +69,9 @@ ilbe.com##*
 
 
 ! Ad List
-philgo.com##DIV[class="jeho ad_left_header"]
-philgo.com##DIV[class="jeho ad_right_header"]
-philgo.com##DIV[class="ad_right_wing"]
-philgo.com##DIV[class="left-wing"]
-philgo.com##DIV[class="philgo-main-banner"]
-naver.com##DIV[id="veta_top"]
+philgo.com##.wing-banner.d-none.d-lg-block
+philgo.com##.top-banner left
+philgo.com##.top-banner right
 naver.com##DIV[id="veta_branding"]
 noonoo*.tv##DIV[class="partner-banner-wrap "]
 noonoo*.tv##DIV[class="partner-banner-wrap index"]
@@ -88,4 +85,5 @@ bbongtv.com##IMG[src="/img/pc_banner.gif"]
 https://blacktoon264.com/upload/2023/0821/202308212257195036780.gif
 https://blacktoon264.com/upload/2023/0826/202308262310049824125.jpg
 zzap167.com##.partner-banner-content
+
 
