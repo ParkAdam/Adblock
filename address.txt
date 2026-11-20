@@ -55,18 +55,11 @@ coinnone.net##*
 coinnoinc.com##*
 naverccrp.com##*
 
-
-! YouTube
-youtube.com##.ytp-pause-overlay
-youtube.com###chat
-
-
 ! fake news
 chosun.com##*
 joongang.co.kr##*
 donga.com##*
 ilbe.com##*
-
 
 ! Ad List
 philgo.com##.wing-banner.d-none.d-lg-block
@@ -81,10 +74,6 @@ bbongtv.com##IMG[src="/img/baro-main.gif"]
 bbongtv.com##IMG[src="/img/yes-s-main.gif"]
 bbongtv.com##IMG[src="/img/nera-s-main-1.gif?v=2"]
 bbongtv.com##IMG[src="/img/pc_banner.gif"]
-https://blacktoon264.com/upload/2023/0821/202308212257195036780.gif
-https://blacktoon264.com/upload/2023/0826/202308262310049824125.jpg
-zzap170.com##.partner-banner-content
-
 
 
 
