@@ -180,3 +180,7 @@ ytn.co.kr##.articleAd_new
 ! namu.wiki
 namu.wiki##article.hDKwq6xG > div:nth-of-type(3)
 namu.wiki##div.AmxNnK3G.AZIgfeN3._14X-Qdyc > div.ThvEaI-v
+
+! facebook.com
+facebook.com##[role="feed"] [role="article"]:not([role="article"] *):has(:is(h2,h3,h4,[role="heading"]) a:is([href^="/ads/about/?"],[href^="https://www.facebook.com/ads/about/?"]):not([role="article"] [role="article"] *))
+파일 필터
