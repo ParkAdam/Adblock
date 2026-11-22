@@ -173,3 +173,19 @@ www.ppomppu.co.kr##div.topSub-nav > div:nth-of-type(1)
 ytn.co.kr##.adright_box
 ytn.co.kr##.articleAd_marketing
 ytn.co.kr##.articleAd_new
+
+! 국내 주요 사이트 광고 숨김
+
+! 네이버 검색
+search.naver.com##div.api_common_banner
+search.naver.com##.book_list_wrap li[data-ad="true"]
+search.naver.com##div:is(._pl_section, ._bz_section, .sc_new).ad_section
+
+! 디시인사이드
+app.dcinside.com,m.dcinside.com##li.adv-inner
+app.dcinside.com,m.dcinside.com##*[class^="adv-group"]
+
+! 에펨코리아
+fmkorea.com##div.fmad_wrapper
+fmkorea.com##div[id^="fm_read_vote_sq_"]
+fmkorea.com##iframe[src^="https://loader.fmkorea.com/_loader/loader.php"]
