@@ -75,5 +75,51 @@ bbongtv.com##IMG[src="/img/yes-s-main.gif"]
 bbongtv.com##IMG[src="/img/nera-s-main-1.gif?v=2"]
 bbongtv.com##IMG[src="/img/pc_banner.gif"]
 
-
-
+gall.dcinside.com###zzbang_div
+gall.dcinside.com##div.con_banner.writing_banbox
+gall.dcinside.com##div.gallview_contents > div:nth-of-type(4) > div
+gall.dcinside.com##div.rightbanner1
+gall.dcinside.com##div.stickyunit_rail
+gall.dcinside.com##div.wrap_inner > div:nth-of-type(2)
+leting.kr###aswift_1
+leting.kr###aswift_1_host
+leting.kr###gn_wipead_close > svg > g > polygon
+leting.kr###google-anno-sa
+leting.kr##div.main_widget_box.post-view-box > center:nth-of-type(1) > div
+leting.kr##div.main_widget_box.post-view-box > center:nth-of-type(2) > div
+leting.kr##div.main_widget_box.post-view-box > center:nth-of-type(3) > div
+leting.kr##div.view-wrap > section > article > div:nth-of-type(3) > div > div > iframe
+lineagem.inven.co.kr###ad-both-right-side
+lineagem.inven.co.kr##div.ibuilderModules > section:nth-of-type(1)
+lineagem.inven.co.kr##div.sh-wrap
+lineagem.inven.co.kr##section.ad-right2
+lineagem.inven.co.kr##section.list-wrap.banner-ti > article.list-common
+lineagem.inven.co.kr##ul.inven-float-alarm.roulette-open
+missav.live##div.fixed.right-2.bottom-2
+missav.live##div.is-home.content-without-search.pb-12 > div:nth-of-type(2) > div:nth-of-type(3) > div.hidden
+missav.live##div.is-home.content-without-search.pb-12 > div:nth-of-type(2) > div:nth-of-type(6) > div.hidden
+missav.live##div.is-home.content-without-search.pb-12 > div:nth-of-type(2) > div:nth-of-type(9) > div.hidden
+missav.live##div.root--b74xI.bottomRight--gGeEI.slideAnimation--fWgGe
+missav.live##div.rootContent---scng
+missav.live##div.space-y-6.mb-6
+www.dcinside.com##div.leftbanner
+www.dcinside.com##div.rightbanner
+www.fmkorea.com###fmad_extra_wrapper_0
+www.fmkorea.com###fmad_wrapper_0
+www.fmkorea.com##div.padding > iframe
+www.inven.co.kr###backskinleft
+www.inven.co.kr###backskinright
+www.inven.co.kr##div.ad-header
+www.inven.co.kr##div.hero-section__top-ad
+www.inven.co.kr##ul.inven-float-alarm.roulette-open
+www.naver.com###pc-main-ad-div-p_main_rightside_understock
+www.naver.com###right-ad-1
+www.naver.com##div.Layout-module__banner_area___D-k-E.Layout-module__type_ad_timeboard_basic___ivUu2
+www.naver.com##div.Layout-module__right_top___87EEN > div:nth-of-type(4)
+www.naver.com##div.Layout-module__right_top___87EEN > div:nth-of-type(7)
+www.naver.com##div.nbanner_area
+www.ppomppu.co.kr###main_f_1
+www.ppomppu.co.kr###main_f_1 > div
+www.ppomppu.co.kr###r_banner_f_1
+www.ppomppu.co.kr##div.container > div > div:nth-of-type(2)
+www.ppomppu.co.kr##div.topSub-nav > div:nth-of-type(1)
