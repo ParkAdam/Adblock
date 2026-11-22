@@ -128,6 +128,11 @@ noonoo*.tv##DIV[class="partner-br-wrap index"]
 ! philgo.com
 philgo.com##.top-banner
 philgo.com##.wing-banner.d-none.d-lg-block
+philgo.com###left-wing
+philgo.com###right-wing
+philgo.com##div.v7-logo-area > div:nth-of-type(1)
+philgo.com##div.v7-logo-area > div:nth-of-type(3)
+
 
 ! skidrowreloaded.com
 skidrowreloaded.com###dontfoid
