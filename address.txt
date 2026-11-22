@@ -27,13 +27,10 @@ cdn.taboola.com*$third-party
 compass.adop.cc*$third-party
 
 ! 사이트 전체 차단 규칙
-chosun.com##*
 coinnoinc.com##*
 coinnone.net##*
 daurn.net##*
-donga.com##*
 ilbe.com##*
-joongang.co.kr##*
 naverccrp.com##*
 xsgcobwd.com##*
 
