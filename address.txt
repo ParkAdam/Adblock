@@ -80,6 +80,9 @@ gall.dcinside.com##div.stickyunit_rail
 gall.dcinside.com##div.wrap_inner > div:nth-of-type(2)
 
 ! leting.kr
+leting.kr##div.quick_menu
+leting.kr##div.quick_menu2
+leting.kr##div.view-wrap > section > article > center
 leting.kr###aswift_1
 leting.kr###aswift_1_host
 leting.kr###gn_wipead_close > svg > g > polygon
@@ -125,6 +128,10 @@ noonoo*.tv##DIV[class="partner-br-wrap index"]
 ! philgo.com
 philgo.com##.top-banner
 philgo.com##.wing-banner.d-none.d-lg-block
+
+! skidrowreloaded.com
+skidrowreloaded.com###dontfoid
+skidrowreloaded.com###fsb_image
 
 ! torrentao.com
 torrentao.com##.sidebar
