@@ -109,14 +109,11 @@ missav.live##div.root--b74xI.bottomRight--gGeEI.slideAnimation--fWgGe
 missav.live##div.rootContent---scng
 missav.live##div.space-y-6.mb-6
 
-! naver.com
-naver.com##DIV[id="veta_branding"]
-
-! newxtoon[0-9]+.com
-newxtoon[0-9]+.com##body > main > section:nth-of-type(2)
-newxtoon[0-9]+.com##div.hidden.items-start
-newxtoon[0-9]+.com##div.pt-14 > aside.relative.w-full.bg-black
-newxtoon[0-9]+.com##div.reader-canvas > aside.relative.w-full.bg-black
+! newxtoon*.com
+newxtoon*.com##body > main > section:nth-of-type(2)
+newxtoon*.com##div.hidden.items-start
+newxtoon*.com##div.pt-14 > aside.relative.w-full.bg-black
+newxtoon*.com##div.reader-canvas > aside.relative.w-full.bg-black
 
 ! noonoo*.tv
 noonoo*.tv##DIV[class="event-alert"]
@@ -136,57 +133,50 @@ torrentao.com##.sidebar
 torrentzozo.com##a[target=_blank]:not([class=view_image])
 
 ! www.dcinside.com
-www.dcinside.com##div.leftbanner
-www.dcinside.com##div.rightbanner
+dcinside.com##div.leftbanner
+dcinside.com##div.rightbanner
+app.dcinside.com,m.dcinside.com##li.adv-inner
+app.dcinside.com,m.dcinside.com##*[class^="adv-group"]
 
 ! www.fmkorea.com
-www.fmkorea.com###fmad_extra_wrapper_0
-www.fmkorea.com###fmad_wrapper_0
-www.fmkorea.com##div.padding > iframe
+fmkorea.com###fmad_extra_wrapper_0
+fmkorea.com###fmad_wrapper_0
+fmkorea.com##div.padding > iframe
+fmkorea.com##div.fmad_wrapper
+fmkorea.com##div[id^="fm_read_vote_sq_"]
+fmkorea.com##iframe[src^="https://loader.fmkorea.com/_loader/loader.php"]
 
 ! www.inven.co.kr
-www.inven.co.kr###backskinleft
-www.inven.co.kr###backskinright
-www.inven.co.kr##div.ad-header
-www.inven.co.kr##div.hero-section__top-ad
-www.inven.co.kr##ul.inven-float-alarm.roulette-open
+inven.co.kr###backskinleft
+inven.co.kr###backskinright
+inven.co.kr##div.ad-header
+inven.co.kr##div.hero-section__top-ad
+inven.co.kr##ul.inven-float-alarm.roulette-open
 
 ! www.naver.com
-www.naver.com###pc-main-ad-div-p_main_rightside_understock
-www.naver.com###right-ad-1
-www.naver.com##div.Layout-module__banner_area___D-k-E.Layout-module__type_ad_timeboard_basic___ivUu2
-www.naver.com##div.Layout-module__right_top___87EEN > div:nth-of-type(4)
-www.naver.com##div.Layout-module__right_top___87EEN > div:nth-of-type(7)
-www.naver.com##div.nbanner_area
+naver.com###pc-main-ad-div-p_main_rightside_understock
+naver.com###right-ad-1
+naver.com##div.Layout-module__banner_area___D-k-E.Layout-module__type_ad_timeboard_basic___ivUu2
+naver.com##div.Layout-module__right_top___87EEN > div:nth-of-type(4)
+naver.com##div.Layout-module__right_top___87EEN > div:nth-of-type(7)
+naver.com##div.nbanner_area
+naver.com##DIV[id="veta_branding"]
+search.naver.com##div.api_common_banner
+search.naver.com##.book_list_wrap li[data-ad="true"]
+search.naver.com##div:is(._pl_section, ._bz_section, .sc_new).ad_section
 
-! www.ppomppu.co.kr
-www.ppomppu.co.kr###main_f_1
-www.ppomppu.co.kr###main_f_1 > div
-www.ppomppu.co.kr###r_banner_f_1
-www.ppomppu.co.kr##div.container > div > div:nth-of-type(2)
-www.ppomppu.co.kr##div.topSub-nav > div:nth-of-type(1)
+! ppomppu.co.kr
+ppomppu.co.kr###main_f_1
+ppomppu.co.kr###main_f_1 > div
+ppomppu.co.kr###r_banner_f_1
+ppomppu.co.kr##div.container > div > div:nth-of-type(2)
+ppomppu.co.kr##div.topSub-nav > div:nth-of-type(1)
 
 ! ytn.co.kr
 ytn.co.kr##.adright_box
 ytn.co.kr##.articleAd_marketing
 ytn.co.kr##.articleAd_new
 
-! 국내 주요 사이트 광고 숨김
-
-! 네이버 검색
-search.naver.com##div.api_common_banner
-search.naver.com##.book_list_wrap li[data-ad="true"]
-search.naver.com##div:is(._pl_section, ._bz_section, .sc_new).ad_section
-
-! 디시인사이드
-app.dcinside.com,m.dcinside.com##li.adv-inner
-app.dcinside.com,m.dcinside.com##*[class^="adv-group"]
-
-! 에펨코리아
-fmkorea.com##div.fmad_wrapper
-fmkorea.com##div[id^="fm_read_vote_sq_"]
-fmkorea.com##iframe[src^="https://loader.fmkorea.com/_loader/loader.php"]
-
-! 나무위키
+! namu.wiki
 namu.wiki##article.hDKwq6xG > div:nth-of-type(3)
 namu.wiki##div.AmxNnK3G.AZIgfeN3._14X-Qdyc > div.ThvEaI-v
