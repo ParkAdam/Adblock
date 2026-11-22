@@ -186,3 +186,7 @@ app.dcinside.com,m.dcinside.com##*[class^="adv-group"]
 fmkorea.com##div.fmad_wrapper
 fmkorea.com##div[id^="fm_read_vote_sq_"]
 fmkorea.com##iframe[src^="https://loader.fmkorea.com/_loader/loader.php"]
+
+! 나무위키
+namu.wiki##article.hDKwq6xG > div:nth-of-type(3)
+namu.wiki##div.AmxNnK3G.AZIgfeN3._14X-Qdyc > div.ThvEaI-v
