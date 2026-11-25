@@ -170,37 +170,6 @@ philgo.com##div.v7-logo-area > div:nth-of-type(3)
 skidrowreloaded.com###dontfoid
 skidrowreloaded.com###fsb_image
 
-!ssulcookie.com
-ssulcookie.com###__next > div > div:nth-of-type(1) > div.google-auto-placed > ins.adsbygoogle.adsbygoogle-noablate
-ssulcookie.com###aswift_5
-ssulcookie.com###aswift_5_host
-ssulcookie.com###flexible-sticky-outer
-ssulcookie.com###google-anno-sa
-ssulcookie.com##body > div.google-auto-placed > ins.adsbygoogle.adsbygoogle-noablate
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(10)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(11)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(12)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(13)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(3)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(4)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(5)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(6)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(7)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(8)
-ssulcookie.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(9)
-ssulcookie.com##div.mt-4.mb-4.flex.justify-center
-ssulcookie.com##div.my-2.flex.justify-center.w-full
-ssulcookie.com##div.px-2.pt-2
-ssulcookie.com##div.text-center.bg-gray-50 > div.google-auto-placed > ins.adsbygoogle.adsbygoogle-noablate
-ssulcookie.com##div.text-left > div.text-center
-ssulcookie.com##div.text-left.w-full > div:nth-of-type(1)
-ssulcookie.com##html > ins:nth-of-type(1)
-ssulcookie.com##html > ins:nth-of-type(2)
-ssulcookie.com##html > ins:nth-of-type(3)
-ssulcookie.com##html > ins:nth-of-type(4)
-ssulcookie.com##section.px-2.pb-6.text-left > div.grid.grid-cols-2.gap-2 > div:nth-of-type(1)
-ssulcookie.com##section.px-2.pb-6.text-left > div.grid.grid-cols-2.gap-2 > div:nth-of-type(2)
-
 
 ! torrentao.com
 torrentao.com##.sidebar
