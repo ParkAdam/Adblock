@@ -183,6 +183,13 @@ search.naver.com##div.api_common_banner
 search.naver.com##.book_list_wrap li[data-ad="true"]
 search.naver.com##div:is(._pl_section, ._bz_section, .sc_new).ad_section
 
+! newsluv.com
+newsluv.com###google-anno-sa
+newsluv.com##div.code-block.code-block-1
+newsluv.com##div.code-block.code-block-13
+newsluv.com##div.google-auto-placed
+newsluv.com##html > ins.adsbygoogle.adsbygoogle-noablate
+
 ! newxtoon*.com
 newxtoon*.com##body > main > section:nth-of-type(2)
 newxtoon*.com##div.hidden.items-start
