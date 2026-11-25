@@ -68,37 +68,6 @@ blacktoon[0-9]+.com##ul.navbar-nav.mr-auto > li:nth-of-type(5)
 blacktoon[0-9]+.com##ul.navbar-nav.mr-auto > li:nth-of-type(6)
 blacktoon[0-9]+.com##ul.navbar-nav.mr-auto > li:nth-of-type(7)
 
-! coucounews.com
-coucounews.com###__next > div > div:nth-of-type(1) > div.google-auto-placed > ins.adsbygoogle.adsbygoogle-noablate
-coucounews.com###aswift_5
-coucounews.com###aswift_5_host
-coucounews.com###flexible-sticky-outer
-coucounews.com###google-anno-sa
-coucounews.com##body > div.google-auto-placed > ins.adsbygoogle.adsbygoogle-noablate
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(10)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(11)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(12)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(13)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(3)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(4)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(5)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(6)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(7)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(8)
-coucounews.com##div.grid.grid-cols-2.gap-2 > div:nth-of-type(9)
-coucounews.com##div.mt-4.mb-4.flex.justify-center
-coucounews.com##div.my-2.flex.justify-center.w-full
-coucounews.com##div.px-2.pt-2
-coucounews.com##div.text-center.bg-gray-50 > div.google-auto-placed > ins.adsbygoogle.adsbygoogle-noablate
-coucounews.com##div.text-left > div.text-center
-coucounews.com##div.text-left.w-full > div:nth-of-type(1)
-coucounews.com##html > ins:nth-of-type(1)
-coucounews.com##html > ins:nth-of-type(2)
-coucounews.com##html > ins:nth-of-type(3)
-coucounews.com##html > ins:nth-of-type(4)
-coucounews.com##section.px-2.pb-6.text-left > div.grid.grid-cols-2.gap-2 > div:nth-of-type(1)
-coucounews.com##section.px-2.pb-6.text-left > div.grid.grid-cols-2.gap-2 > div:nth-of-type(2)
-
 ! danawa.com
 danawa.com##.main_ad_prodlist
 
@@ -165,11 +134,35 @@ philgo.com###right-wing
 philgo.com##div.v7-logo-area > div:nth-of-type(1)
 philgo.com##div.v7-logo-area > div:nth-of-type(3)
 
+! ssulcookie.com
+ssulcookie.com###flexible-sticky-outer
+ssulcookie.com###google-anno-sa
+ssulcookie.com##div.google-auto-placed
+ssulcookie.com##div.mt-4.mb-4.flex.justify-center
+ssulcookie.com##div.my-2.flex.justify-center.w-full
+ssulcookie.com##div.text-left > div.text-center
+ssulcookie.com##div.text-left.w-full > div:nth-of-type(1)
+ssulcookie.com##div.text-left.w-full > div:nth-of-type(2)
+ssulcookie.com##html > ins:nth-of-type(1)
+ssulcookie.com##html > ins:nth-of-type(2)
+ssulcookie.com##html > ins:nth-of-type(3)
+ssulcookie.com##html > ins:nth-of-type(5)
+
+! suninews.com
+suninews.com###aswift_6
+suninews.com###aswift_6_host
+suninews.com###google-anno-sa
+suninews.com##div.mt-4.mb-4.flex.justify-center
+suninews.com##div.my-2.flex.justify-center.w-full
+suninews.com##div.text-left > div.text-center
+suninews.com##html > ins:nth-of-type(1)
+suninews.com##html > ins:nth-of-type(2)
+suninews.com##html > ins:nth-of-type(3)
+suninews.com##html > ins:nth-of-type(4)
 
 ! skidrowreloaded.com
 skidrowreloaded.com###dontfoid
 skidrowreloaded.com###fsb_image
-
 
 ! torrentao.com
 torrentao.com##.sidebar
