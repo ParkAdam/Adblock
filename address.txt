@@ -1,4 +1,14 @@
 [Adblock]
+! 공통 광고 스크립트 (웹페이지 이동 제외)
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$script,domain=~youtube.com|~chzzk.naver.com
+||pagead2.googlesyndication.com/pagead/show_ads.js^$script,domain=~youtube.com|~chzzk.naver.com
+||securepubads.g.doubleclick.net/tag/js/gpt.js^$script,domain=~coucounews.com|~youtube.com|~chzzk.naver.com
+||googletagservices.com/tag/js/gpt.js^$script,domain=~coucounews.com|~youtube.com|~chzzk.naver.com
+||pagead2.googlesyndication.com/tag/js/gpt.js^$script,domain=~coucounews.com|~youtube.com|~chzzk.naver.com
+||t1.daumcdn.net/kas/static/ba.min.js^$script
+||widgets.outbrain.com/outbrain.js^$script
+||static.tblcontent.com/libtrc/*/loader.privacy.js^$script
+||img.mobon.net/js/common/HawkEyesMaker.js^$script,third-party
 ! 쿠쿠뉴스 기사 열람용 리워드 광고 유지
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=coucounews.com
 coucounews.com###flexible-sticky-outer
