@@ -1,4 +1,9 @@
 [Adblock]
+! 쿠쿠뉴스에서 계속 읽기용 Google 광고와 직접 클릭한 링크 허용
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=coucounews.com
+@@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=coucounews.com
+@@||adclick.g.doubleclick.net/aclk$document,domain=googleads.g.doubleclick.net
+@@||coucounews.com/b/$generichide
 
 ! 요청 차단 규칙
 *.adnavi.co.kr*$third-party
