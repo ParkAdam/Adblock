@@ -3,7 +3,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=coucounews.com
 @@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=coucounews.com
 @@||adclick.g.doubleclick.net/aclk$document,domain=googleads.g.doubleclick.net
-@@||coucounews.com/b/$generichide
+@@||coucounews.com/b/$elemhide
 
 ! 요청 차단 규칙
 *.adnavi.co.kr*$third-party
